@@ -3,4 +3,22 @@
   <groupId>Selenium_Java_WRTHYWebsiteDeploy_GI</groupId>
   <artifactId>Selenium_Java_WRTHYWebsiteDeploy_AI</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  
+  	<dependency>
+  		<groupId>org.seleniumhq.selenium</groupId>
+  		<artifactId>selenium-java</artifactId>
+  		<version>4.8.0</version>
+  	</dependency>
+  	
+
+	<dependency>
+	    <groupId>junit</groupId>
+	    <artifactId>junit</artifactId>
+	    <version>4.13.2</version>
+	    <scope>test</scope>
+	</dependency>
+
+  	
+  </dependencies>
 </project>
